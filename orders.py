@@ -7,6 +7,7 @@ try:
     # Read line by line and store in another variable(list_of_lines)
     list_of_lines = file.readlines()
     print(list_of_lines)
+
     # Iterate over the list_of_lines/Print out each line
     for line in list_of_lines:
         print(line.strip())

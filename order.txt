@@ -1,6 +1,12 @@
-Cheeseburger
-Bacon
-Taco bell
-Mexican food
-Fish & Chips
-Coke
+item:Spare Ribs
+price:14
+item:Portobello Mushrooms
+price:10
+item:Lasagna
+price:13
+item:Pie
+price:14
+item:Chocolate
+price:10
+item:Tofu
+price:13
